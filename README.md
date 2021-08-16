@@ -2,4 +2,5 @@
 # Javascript30-01 Drum Kit
 this is the first of the 30 days vanilla javascript coding Challange https://javascript30.com/
 the first project is creating a dum kit with the middele kine keboard keys, each key with a different sound.
-it was a very fun project to make.
+it was a very fun project to make.<br>
+project wesit: https://drum-kit-javascript.vercel.app/
